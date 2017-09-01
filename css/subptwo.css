@@ -1,0 +1,65 @@
+/*.jij{
+	height: 30px;
+	width: 50px;
+	background: red;
+}*/
+/*上面是测试*/
+/*子页开始*/
+.wrap-box{
+	width: 1190px;
+	margin: 0 auto;
+
+}
+.list_crumb{
+	width: 100%;
+    margin: 25px 0 15px;
+}
+.classify{
+	 float: left;
+    line-height: 21px;
+}
+.classify a{
+	 color: #666;
+	 font-size: 14px;
+}
+/*小盒子*/
+.list-left{
+	width: 100%;
+	overflow: hidden;
+}
+.list-left-one{
+	height: 544px;
+    width: 110px;
+    overflow: hidden;
+	position: relative;
+    float: left;
+    margin-top: 15px;
+}
+.list-left-one ul li{
+	height: 98px;
+    width: 98px;
+  	text-align: center;
+    border: 1px solid #e5e5e5;
+    margin-bottom: 5px;
+  	cursor: pointer;
+    border-color: #e0e0e0;
+    overflow: hidden;
+
+
+}
+
+.list-middem{
+	float: left;
+    width: 594px;
+    height: 594px;
+	border: 3px solid #eee;
+    margin: 15px 10px;
+    overflow: hidden;
+}
+
+.list-right{
+	width: 450px;
+	float: left;
+	background: pink;
+	margin-top:15px;
+}
